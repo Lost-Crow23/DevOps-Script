@@ -1,6 +1,6 @@
 <h1>What is DevOps ? </h1>
 
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/126012715/231523227-2f9337c2-3a26-4dcd-9cad-74bda7bdd147.png">
+<img width="308" alt="image" src="https://user-images.githubusercontent.com/126012715/231523457-c0c42462-f2eb-4cf2-b321-52711b55604b.png">
 
 •	A methodology integrating software development and operations
 
