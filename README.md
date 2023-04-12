@@ -1,6 +1,6 @@
 <h1>What is DevOps ? </h1>
 
-![img.png](img.png)
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/126012715/231523227-2f9337c2-3a26-4dcd-9cad-74bda7bdd147.png">
 
 •	A methodology integrating software development and operations
 
@@ -26,7 +26,6 @@
 
 <h3>What is Cloud Computing and AWS?</h3>
 
-![img_3.png](img_3.png)
 
 •	On-demand availability of system resources
 
@@ -43,6 +42,8 @@
 •	Create and manage 
 
 •	Efficient, reduce errors, trackability  
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/126012715/231523339-f45cc7a4-0593-4568-99a6-9d95d6c39fe9.png">
 
 
 <h3>Benefits of Cloud Computing? User cases? Who is using it?</h3>
